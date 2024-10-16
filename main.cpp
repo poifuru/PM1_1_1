@@ -4,7 +4,7 @@ int main() {
 
 	printf("Hello!!!!\n");
 
-	printf("Hello New branch!\n");
+	printf("Pull riquest branch changed\n");
 
 	return 0;
 }
